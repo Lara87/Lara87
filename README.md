@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Six cities](https://github.com/Lara87/483923-six-cities-9)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React/Redux etc & TypeScript**, then **Vue**
 
 - 📫 How to reach me **lara.87@bk.ru** and tg: [lyublueberry](https://t.me/lyublueberry)
 
