@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **lara.87@bk.ru** and tg:**https://t.me/lyublueberry**
+- 📫 How to reach me **lara.87@bk.ru** and tg: [lyublueberry](https://t.me/lyublueberry)
 
 - 📄 Know about my experiences [https://career.habr.com/lara87](https://career.habr.com/lara87)
 
