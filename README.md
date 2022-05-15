@@ -4,13 +4,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lara87&theme=vue)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lara87&theme=vue)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lara87&theme=vue)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lara87&theme=vue)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lara87&theme=vue&utcOffset=8)
 
 <!--
 **Lara87/Lara87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
