@@ -2,13 +2,15 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend developer from Russia 🇷🇺</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lara87&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lara87&theme=vue)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lara87&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lara87&theme=vue)
 
-<!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lara87&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lara87&theme=vue)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lara87&theme=vue)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lara87&theme=vue&utcOffset=8)
 
 <!--
 **Lara87/Lara87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
