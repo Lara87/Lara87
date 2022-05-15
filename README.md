@@ -4,6 +4,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lara87)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lara87)](https://git.io/streak-stats)
+<!---Для компактной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lara87&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!---Для подробной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lara87)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Lara87/Lara87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
