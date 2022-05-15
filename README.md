@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="#" target="_blank">Lyubov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend developer from Russia 🇷🇺</h3>
-
-
+<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [Six cities](https://github.com/Lara87/483923-six-cities-9)
 
