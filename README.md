@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend developer from Russia 🇷🇺</h3>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lara87)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Lara87/Lara87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
