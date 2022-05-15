@@ -3,6 +3,8 @@
 <h3 align="center">Frontend developer from Russia 🇷🇺</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lara87)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lara87)](https://git.io/streak-stats)
+
 <!--
 **Lara87/Lara87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
